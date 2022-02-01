@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+
+
+ul li{
+  display: inline-block;
+  background-color: #345c72;
+  color: white;
+  font-family: 'Raleway';
+  
+.myButton {
+	box-shadow: 0px 0px 0px 0px #f0f7fa;
+	background-color:#345c72;
+	border-radius:19px;
+	border:2px solid #1a313d;
+	display:inline-block;
+	cursor:pointer;
+	color: white;
+	font-family:'Raleway';
+	font-size:15px;
+	padding:6px 36px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px white;
+}
+.myButton:hover {
+	background-color:white;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+ 
+}
+ul{
+    background-color: ;
+  text-align: right;
+
+}
+
+
+body{
+  background-color: #d4edf4;
+  background-image:url(https://res.cloudinary.com/gdes220/image/upload/v1643338641/Aesthetic_November_2021_Desktop_Wallpaper_h0sdx1.svg);
+   background-size:auto 105vh;
+    background-position: auto; 
+
+}
+
+
+h1{
+  font-size: 2rem;
+font-family: 'Noto Sans';
+  color:#f46530;
+
+}
+
+p{
+  font-size: 6rem;
+   width: 50vw;
+  color: #345c72;
+  font-family: 'Raleway';
+  text-shadow: 2px 2px white;
+  font-weight: bold;
+}
+
+img{
+  width: 50px;
+}
